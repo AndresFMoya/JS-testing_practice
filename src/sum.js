@@ -1,7 +1,7 @@
-class Math {
-  sum(a, b) {
-    return a + b;
-  }
-}
+const Example = () => {
+  const sum = (a, b) => (a + b);
 
-export default Math;
+  return { sum };
+};
+
+export default Example;
