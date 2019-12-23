@@ -5,6 +5,8 @@ This project consist of  Write tests for the following functions, and then make 
 - Capitalize(string) takes a string and returns that string with the first character capitalized.
 - ReverseString(string) takes a string and returns it reversed.
 - A calculator object that contains the basic operations: add, subtract, divide, and multiply.
+- Caesar Cipher.
+- Array Analysis. Write a function that takes an array of numbers and returns an object with the following properties: average, min, max, and length.
 
 ### Technology
 HTML, Jest, ES6, ESlint, Prettier, Stickler-ci, GitHub.
